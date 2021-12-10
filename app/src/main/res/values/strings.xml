@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Network</string>
+    <string name="login">Login</string>
+    <string name="username_email">Username/Email</string>
+    <string name="password">Password</string>
+    <string name="dont_have_acc">Don\'t have account?</string>
+    <string name="sign_up">SignUp</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="already_hav_account">Already have account?</string>
+    <string name="read_more">Read more</string>
+    <string name="liked_by">Liked by %d</string>
+    <string name="x_comments">%d comments</string>
+</resources>
